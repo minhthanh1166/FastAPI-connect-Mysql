@@ -1,0 +1,12 @@
+fastapi~=0.109.0
+pydantic~=2.6.0
+starlette~=0.35.1
+sqlalchemy~=2.0.25
+firebase_admin
+passlib~=1.7.4
+python-jose
+uvicorn~=0.27.0.post1
+pymysql
+python-multipart
+bcrypt
+jose
